@@ -40,28 +40,28 @@ In this project, I have utilized the following SQL database functions and concep
   
 **Some business questions for which I have written queries and how do my queries help the business.**
 
-**QUESTION 1:  What is the frequency of high-value sales made with credit card payments?**
+**QUESTION 1:  What is the frequency of high-value sales made with credit card payments?**  
 This can help optimize credit card-related promotions or services.
 
-**QUESTION 2:- What is the distribution of total sales across the branches?**
+**QUESTION 2:- What is the distribution of total sales across the branches?**  
 It helps analyze branch performance by pinpointing the highest revenue-generating branches and highlighting areas that may require further attention or investment.
 
-**QUESTION 3:- Which hours of the day see the highest total sales?**
+**QUESTION 3:- Which hours of the day see the highest total sales?**  
 The business can improve performance by allocating additional resources, such as staffing or promotional efforts, during the hours when total sales are low.
 
-**QUESTION 4:- What product recommendations can be made based on average product ratings across different product lines?**
+**QUESTION 4:- What product recommendations can be made based on average product ratings across different product lines?**  
 This insight helps the business by guiding marketing and inventory decisions. Products categorized as "Highly Recommended" can be promoted more aggressively and stocked in larger quantities. Conversely, products categorized as "Not Recommended" may be reviewed for potential improvements.
 
-**QUESTION 5: What are the most common payment modes used by each gender, and how does payment behavior differ between genders?** 
+**QUESTION 5: What are the most common payment modes used by each gender, and how does payment behavior differ between genders?**   
 Understand gender-specific payment preferences, enabling tailored marketing strategies and payment processing options that cater to different customer segments. It can lead to improved customer satisfaction and potentially increased sales through more personalized approaches.
 
-**QUESTION 6:- What is the average customer rating for each product line in branches 'A' and 'B', and how does it vary between the two branches?**
+**QUESTION 6:- What is the average customer rating for each product line in branches 'A' and 'B', and how does it vary between the two branches?**  
 Comparing the average customer ratings for product lines in branches 'A' and 'B' helps pinpoint product performance variations between the two branches.
 
-**QUESTION 7:- What is the total gross income generated in each city?**
+**QUESTION 7:- What is the total gross income generated in each city?**  
 The insight reveals the distribution of total gross income across different cities, highlighting potential opportunities for targeted marketing or resource allocation.
 
-**QUESTION 8:- Which branch has the highest average product rating, and how does it compare to other branches?**
+**QUESTION 8:- Which branch has the highest average product rating, and how does it compare to other branches?**  
 The insight highlights the branch with the highest average product rating, offering valuable data for identifying the branch's performance in terms of customer satisfaction compared to others.
 
 **QUESTION 9:- What is the total sales value for all records in the dataset?**
